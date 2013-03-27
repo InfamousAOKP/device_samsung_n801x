@@ -18,7 +18,7 @@
 -include device/samsung/n80xx-common/BoardConfigCommon.mk
 
 # inline kernel building
-TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
+TARGET_KERNEL_SOURCE := kernel/samsung/n80xx
 TARGET_KERNEL_CONFIG := cyanogenmod_n801x_defconfig
 
 # assert
